@@ -1,0 +1,71 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    border:3px solid blue;
+    border-radius:10px;
+    padding:5px;
+}
+header a {
+   text-decoration:none; 
+   color:white;
+   background-color: navy;
+   border-radius:8px;
+   margin:5px;
+   padding:5px;
+}
+h1 {
+    color:navy;
+    background:lightcyan;
+    border-radius:8px;
+    text-align:center;
+    padding:12px;
+}
+footer p {
+    border:2px solid slategrey;
+}
+.contacts {
+   padding-left:14px;
+}
+nav a {
+    border:3px solid navy;
+    border-radius:15px;
+    background-color: navy;
+    color:white;
+    text-decoration:none;
+    margin:20px;
+    padding:4px;
+    font-size:20px;
+}
+nav {
+    margin:15px;
+}
+.product {
+    background-color:white ;
+    color: navy;
+}
+select {
+    border:3px solid navy;
+    border-radius:7px;
+    color:royalblue;
+    padding:10px;
+    background-color: white;
+    font-size:16px;
+}
+select option {
+    background-color: navy;
+    color: white;
+}
+.xlop {
+    border:5px solid navy;
+    border-radius:15px;
+    padding:7px;
+
+}
+main {
+    padding:7px;
+}
+main h2 {
+    color: blue;
+}
+ 
